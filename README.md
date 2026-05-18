@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Hoàng%20Mạnh%20Linh&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%7C%20AI%20Labeling%20%7C%20Web%20Development&descAlignY=57&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Hoàng%20Mạnh%20Linh&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%7C%20G%C3%A1n%20nh%C3%A3n%20AI%20%7C%20Ph%C3%A1t%20tri%E1%BB%83n%20Web&descAlignY=57&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=AI-powered+applications+%26+smart+labeling;Building+scalable+web+platforms;Turning+data+into+useful+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=%E1%BB%A8ng+d%E1%BB%A5ng+AI+%26+g%C3%A1n+nh%C3%A3n+th%C3%B4ng+minh;X%C3%A2y+d%E1%BB%B1ng+n%E1%BB%81n+t%E1%BA%A3ng+web+chuy%C3%AAn+nghi%E1%BB%87p;Bi%E1%BA%BFn+d%E1%BB%AF+li%E1%BB%87u+th%C3%A0nh+s%E1%BA%A3n+ph%E1%BA%A9m+h%E1%BB%AFu+%C3%ADch" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,22 +17,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hoangm-Linh&label=Profile%20Views&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Portfolio-Open%20Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Internship-22c55e?style=for-the-badge" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Hoangm-Linh&label=L%C6%B0%E1%BB%A3t%20xem%20profile&style=for-the-badge&color=0ea5e9" alt="Lượt xem profile" />
+  <img src="https://img.shields.io/badge/Portfolio-M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Tr%E1%BA%A1ng%20th%C3%A1i-S%E1%BA%B5n%20s%C3%A0ng%20th%E1%BB%B1c%20t%E1%BA%ADp-22c55e?style=for-the-badge" alt="Thực tập" />
 </p>
 
 ---
 
-## About Me
+## 👋 Giới thiệu
 
 ```ts
 const hoangManhLinh = {
-  role: "IT Student at Dai Nam University",
-  location: "Vietnam",
-  pillars: ["Artificial Intelligence", "AI Labeling", "Web Development"],
-  interests: ["ML integration", "data annotation workflows", "full-stack web apps"],
-  mindset: "Build useful systems — from labeled data to deployed product"
+  vaiTro: "Sinh viên CNTT — Đại học Đại Nam",
+  viTri: "Việt Nam",
+  truCot: ["Trí tuệ nhân tạo", "Gán nhãn AI", "Phát triển Web"],
+  quanTam: ["Tích hợp ML", "Quy trình gán nhãn dữ liệu", "Ứng dụng web full-stack"],
+  trietLy: "Xây dựng hệ thống hữu ích — từ dữ liệu gán nhãn đến sản phẩm triển khai"
 };
 ```
 
@@ -45,16 +45,16 @@ const hoangManhLinh = {
 ## 🧠 Khía cạnh chuyên môn
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI-Machine_Learning-7c3aed?style=for-the-badge" alt="AI" />
-  <img src="https://img.shields.io/badge/🏷️_AI_Labeling-Data_Annotation-0ea5e9?style=for-the-badge" alt="AI Labeling" />
-  <img src="https://img.shields.io/badge/🌐_Web-Full_Stack-1d4ed8?style=for-the-badge" alt="Web" />
+  <img src="https://img.shields.io/badge/🤖_AI-Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o-7c3aed?style=for-the-badge" alt="AI" />
+  <img src="https://img.shields.io/badge/🏷️_G%C3%A1n_nh%C3%A3n_AI-D%E1%BB%AF_li%E1%BB%87u-0ea5e9?style=for-the-badge" alt="Gán nhãn AI" />
+  <img src="https://img.shields.io/badge/🌐_Web-Ph%C3%A1t_tri%E1%BB%83n_web-1d4ed8?style=for-the-badge" alt="Web" />
 </p>
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🤖 AI
+### 🤖 Trí tuệ nhân tạo (AI)
 
 Xây dựng & áp dụng mô hình ML vào sản phẩm thật.
 
@@ -78,7 +78,7 @@ Chuẩn hóa dữ liệu trước khi đưa vào model.
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🌐 Web
+### 🌐 Phát triển Web
 
 Biến logic & AI thành ứng dụng dùng được.
 
@@ -93,7 +93,7 @@ Biến logic & AI thành ứng dụng dùng được.
 
 ---
 
-## Tech Toolbox
+## 🛠️ Công nghệ & Công cụ
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,bootstrap,flask,nodejs,mysql,git,github,vscode&perline=7" alt="Tech Stack" />
@@ -110,7 +110,7 @@ Biến logic & AI thành ứng dụng dùng được.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Dự án nổi bật
 
 <table>
 <tr>
@@ -125,7 +125,7 @@ Hệ thống ngân hàng mini Client–Server: quản lý khách hàng, tài kho
     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   <a href="https://github.com/Hoangm-Linh/LTM-He-Thong-Quan-Ly-Ngan-Hang-Mini">
-    <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="View Repo" />
+    <img src="https://img.shields.io/badge/XEM_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="Xem repo" />
   </a>
 </p>
 
@@ -147,7 +147,7 @@ Web quản lý hành chính xã: dân cư, hộ gia đình, giấy tờ, phản 
     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   <a href="https://github.com/Hoangm-Linh/Quan_ly_dan_cu_CDS">
-    <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="View Repo" />
+    <img src="https://img.shields.io/badge/XEM_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="Xem repo" />
   </a>
 </p>
 
@@ -171,7 +171,7 @@ Hệ thống upload/download file tách Server/Client; mã hóa AES-GCM, trao đ
     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   <a href="https://github.com/Hoangm-Linh/ATBMTT">
-    <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="View Repo" />
+    <img src="https://img.shields.io/badge/XEM_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="Xem repo" />
   </a>
 </p>
 
@@ -193,7 +193,7 @@ Phân tích dữ liệu chuyến đi taxi New York City: xử lý big data với
     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   <a href="https://github.com/Hoangm-Linh/Phan-tich-du-lieu-taxi-New-York-City">
-    <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="View Repo" />
+    <img src="https://img.shields.io/badge/XEM_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="Xem repo" />
   </a>
 </p>
 
@@ -217,7 +217,7 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
   <a href="https://github.com/Hoangm-Linh/Diem-danh-bang-ma-QRCode">
-    <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="View Repo" />
+    <img src="https://img.shields.io/badge/XEM_REPO-181717?style=flat-square&logoColor=white&labelColor=181717" alt="Xem repo" />
   </a>
 </p>
 
@@ -234,7 +234,7 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
 
 ---
 
-## 🎓 Education
+## 🎓 Học vấn
 
 | | |
 | :--- | :--- |
@@ -243,7 +243,7 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Mục tiêu 2026
 
 - Nâng cao kỹ năng **AI/ML** và triển khai model trên nền tảng web
 - Xây dựng quy trình **gán nhãn dữ liệu** chuẩn hóa cho bài toán phân loại
@@ -252,19 +252,19 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
 
 ---
 
-## Connect With Me
+## 📬 Liên hệ
 
 <p align="center">
   <a href="mailto:manhlinh3011@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Li%C3%AAn%20h%E1%BB%87-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/mling1103">
-    <img src="https://img.shields.io/badge/Facebook-Message%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Nh%E1%BA%AFn%20tin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 <p align="center">
-  <i>Always open to internship opportunities, team projects, and open-source collaboration.</i>
+  <i>Luôn sẵn sàng thực tập, làm dự án nhóm và hợp tác mã nguồn mở.</i>
 </p>
 
 <p align="center">
