@@ -198,7 +198,12 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hoangm-Linh&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=38bdf8&point=93c5fd&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hoangm-Linh&theme=tokyonight" width="100%" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hoangm-Linh&theme=tokyonight" height="200" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hoangm-Linh&theme=tokyonight" height="200" alt="Most Commit Language" />
 </p>
 
 ---
