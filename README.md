@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Hoàng%20Mạnh%20Linh&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=IT%20Student%20%7C%20Web%20Developer%20%7C%20Data%20Enthusiast&descAlignY=57&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:38bdf8&text=Hoàng%20Mạnh%20Linh&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20%7C%20AI%20Labeling%20%7C%20Web%20Development&descAlignY=57&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+projects+that+solve+real+problems;Learning+deeply%2C+shipping+consistently;Focused+on+Web%2C+Data%2C+and+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=AI-powered+applications+%26+smart+labeling;Building+scalable+web+platforms;Turning+data+into+useful+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,29 +30,82 @@
 const hoangManhLinh = {
   role: "IT Student at Dai Nam University",
   location: "Vietnam",
-  focus: ["Web Development", "Data Analysis", "Information Security"],
-  currentlyBuilding: "Real-world coursework and internship-ready projects",
-  mindset: "Learn by building, improve by sharing"
+  pillars: ["Artificial Intelligence", "AI Labeling", "Web Development"],
+  interests: ["ML integration", "data annotation workflows", "full-stack web apps"],
+  mindset: "Build useful systems — from labeled data to deployed product"
 };
 ```
 
-- Passionate about turning class assignments into deployable, portfolio-ready products.
-- Comfortable with Python-based data workflows and practical web application development.
-- Interested in secure-by-design thinking for modern software systems.
+- Tập trung **AI** (học máy, phân loại, tích hợp model vào sản phẩm).
+- Quan tâm **gán nhãn AI** — chuẩn hóa dữ liệu huấn luyện, phân loại và kiểm soát chất lượng nhãn.
+- Mạnh **Web** — Flask, API, dashboard quản trị, triển khai ứng dụng thực tế.
+
+---
+
+## 🧠 Khía cạnh chuyên môn
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI-Machine_Learning-7c3aed?style=for-the-badge" alt="AI" />
+  <img src="https://img.shields.io/badge/🏷️_AI_Labeling-Data_Annotation-0ea5e9?style=for-the-badge" alt="AI Labeling" />
+  <img src="https://img.shields.io/badge/🌐_Web-Full_Stack-1d4ed8?style=for-the-badge" alt="Web" />
+</p>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🤖 AI
+
+Xây dựng & áp dụng mô hình ML vào sản phẩm thật.
+
+- Phân loại văn bản / phản hồi
+- Tiền xử lý & feature engineering
+- Huấn luyện / đánh giá model cơ bản
+- Tích hợp inference qua API
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🏷️ Gán nhãn AI
+
+Chuẩn hóa dữ liệu trước khi đưa vào model.
+
+- Thiết kế quy trình gán nhãn
+- Phân loại mức độ / chủ đề / sentiment
+- Kiểm tra chất lượng tập dữ liệu
+- Hỗ trợ pipeline training
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌐 Web
+
+Biến logic & AI thành ứng dụng dùng được.
+
+- Flask, REST API, phân quyền
+- Dashboard admin, CRUD, export
+- Bootstrap, UI thân thiện
+- Kiến trúc module, dễ mở rộng
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,java,nodejs,express,r,mysql,git,github,docker,linux,vscode,postman&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,bootstrap,flask,nodejs,mysql,git,github,vscode&perline=7" alt="Tech Stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numeric-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Notebook-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Language-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/AI_Labeling-38bdf8?style=flat-square" alt="Labeling" />
 </p>
 
 ---
@@ -181,76 +234,21 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
 
 ---
 
-## 💼 Professional Highlights
-
-<p align="center">
-  <i>GitHub là portfolio lưu trữ dự án thực tế — đánh giá theo <b>chất lượng sản phẩm</b>, không theo số commit hay streak.</i>
-</p>
-
-### 🎓 Education
+## 🎓 Education
 
 | | |
 | :--- | :--- |
-| **Trường** | Đại học Đại Nam |
-| **Khoa** | Công nghệ Thông tin |
+| **Trường** | Đại học Đại Nam — Khoa CNTT |
 | **Lớp** | CNTT 16-03 |
-| **Định hướng** | Web · Data · Information Security |
-
-### 💪 Core Strengths
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 Web & Backend**
-- Xây dựng ứng dụng web Flask, REST API, phân quyền người dùng
-- CRUD, tìm kiếm/lọc, xuất CSV/XML
-- Giao diện Bootstrap, kiến trúc blueprint/module
-
-**🏦 Systems & Networking**
-- Client–Server (Java Swing + TCP)
-- Giao thức tùy chỉnh, xử lý nghiệp vụ phía server
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Data & Analytics**
-- Phân tích dữ liệu với R, Spark, ggplot2
-- Tiền xử lý, trực quan hóa, mô hình hồi quy
-
-**🔐 Security & IoT**
-- Mã hóa AES-GCM, RSA, SHA-512, Socket bảo mật
-- Tích hợp phần cứng Arduino (LED, còi) với Python
-
-</td>
-</tr>
-</table>
-
-### 📂 Project Domains
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Fintech-Banking_System-1d4ed8?style=for-the-badge" alt="Fintech" />
-  <img src="https://img.shields.io/badge/GovTech-Citizen_Management-0ea5e9?style=for-the-badge" alt="GovTech" />
-  <img src="https://img.shields.io/badge/Security-Encrypted_File_Transfer-7c3aed?style=for-the-badge" alt="Security" />
-  <img src="https://img.shields.io/badge/Big_Data-Taxi_Analytics-E25A1C?style=for-the-badge" alt="Big Data" />
-  <img src="https://img.shields.io/badge/IoT-QR_Attendance-22c55e?style=for-the-badge" alt="IoT" />
-</p>
-
-### ✅ Engineering Practices
-
-- Mỗi dự án có **README**, hướng dẫn cài đặt và mô tả chức năng rõ ràng
-- Thiết kế theo mô hình **Client–Server** hoặc **tách module** dễ bảo trì
-- Ưu tiên xử lý lỗi, phân quyền và bảo mật ở mức ứng dụng thực tế
-- Làm việc nhóm (TTDN, đồ án nhóm) và hoàn thiện tài liệu trình bày
 
 ---
 
 ## 🎯 2026 Goals
 
-- Hoàn thiện thêm dự án portfolio có demo và tài liệu đầy đủ
-- Nâng cao kỹ năng thiết kế hệ thống và clean code
-- Đi sâu bảo mật ứng dụng web & truyền thông mạng
-- Sẵn sàng thực tập và hợp tác dự án nhóm
+- Nâng cao kỹ năng **AI/ML** và triển khai model trên nền tảng web
+- Xây dựng quy trình **gán nhãn dữ liệu** chuẩn hóa cho bài toán phân loại
+- Phát triển thêm sản phẩm **full-stack** có demo và tài liệu rõ ràng
+- Sẵn sàng **thực tập** tại môi trường AI, Data hoặc Web
 
 ---
 
