@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/public-repos/Hoangm-Linh?label=S%E1%BB%91%20b%C3%A0i%20%C4%91%C3%A3ng%20t%E1%BA%A3i&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white" alt="Số bài đăng tải" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hoangm-Linh&query=%24.public_repos&label=S%E1%BB%91%20b%C3%A0i%20%C4%91%C3%A3ng%20t%E1%BA%A3i&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white" alt="Số bài đăng tải" />
   <img src="https://img.shields.io/badge/Portfolio-M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   <img src="https://img.shields.io/badge/Tr%E1%BA%A1ng%20th%C3%A1i-S%E1%BA%B5n%20s%C3%A0ng%20%C4%91i%20l%C3%A0m-22c55e?style=for-the-badge" alt="Sẵn sàng đi làm" />
 </p>
