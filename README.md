@@ -45,51 +45,70 @@ const hoangManhLinh = {
 ## 🧠 Khía cạnh chuyên môn
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI-Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o-7c3aed?style=for-the-badge" alt="AI" />
-  <img src="https://img.shields.io/badge/🏷️_G%C3%A1n_nh%C3%A3n_AI-D%E1%BB%AF_li%E1%BB%87u-0ea5e9?style=for-the-badge" alt="Gán nhãn AI" />
-  <img src="https://img.shields.io/badge/🌐_Web-Ph%C3%A1t_tri%E1%BB%83n_web-1d4ed8?style=for-the-badge" alt="Web" />
+  <i>Định hướng cốt lõi — từ dữ liệu, mô hình đến sản phẩm web hoàn chỉnh</i>
 </p>
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" bgcolor="#161b22">
 
-### 🤖 Trí tuệ nhân tạo (AI)
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖-Tr%C3%AD_tu%E1%BB%87_nh%C3%A2n_t%E1%BA%A1o-7c3aed?style=for-the-badge&logoColor=white" alt="AI" />
+</p>
 
-Xây dựng & áp dụng mô hình ML vào sản phẩm thật.
+<h3 align="center">Trí tuệ nhân tạo</h3>
+<p align="center"><sub><b>Xây dựng & triển khai ML vào sản phẩm thực tế</b></sub></p>
 
-- Phân loại văn bản / phản hồi
-- Tiền xử lý & feature engineering
-- Huấn luyện / đánh giá model cơ bản
-- Tích hợp inference qua API
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🏷️ Gán nhãn AI
-
-Chuẩn hóa dữ liệu trước khi đưa vào model.
-
-- Thiết kế quy trình gán nhãn
-- Phân loại mức độ / chủ đề / sentiment
-- Kiểm tra chất lượng tập dữ liệu
-- Hỗ trợ pipeline training
+<p align="left">
+  ✅ Phân loại văn bản & phản hồi<br/>
+  ✅ Tiền xử lý & trích xuất đặc trưng<br/>
+  ✅ Huấn luyện & đánh giá mô hình<br/>
+  ✅ Tích hợp suy luận qua API
+</p>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top" bgcolor="#161b22">
 
-### 🌐 Phát triển Web
+<p align="center">
+  <img src="https://img.shields.io/badge/🏷️-G%C3%A1n_nh%C3%A3n_AI-0ea5e9?style=for-the-badge&logoColor=white" alt="Labeling" />
+</p>
 
-Biến logic & AI thành ứng dụng dùng được.
+<h3 align="center">Gán nhãn AI</h3>
+<p align="center"><sub><b>Chuẩn hóa dữ liệu trước khi huấn luyện</b></sub></p>
 
-- Flask, REST API, phân quyền
-- Dashboard admin, CRUD, export
-- Bootstrap, UI thân thiện
-- Kiến trúc module, dễ mở rộng
+<p align="left">
+  ✅ Thiết kế quy trình gán nhãn<br/>
+  ✅ Phân loại mức độ / chủ đề / cảm xúc<br/>
+  ✅ Kiểm soát chất lượng tập dữ liệu<br/>
+  ✅ Hỗ trợ pipeline huấn luyện
+</p>
+
+</td>
+<td width="33%" valign="top" bgcolor="#161b22">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐-Ph%C3%A1t_tri%E1%BB%83n_Web-2563eb?style=for-the-badge&logoColor=white" alt="Web" />
+</p>
+
+<h3 align="center">Phát triển Web</h3>
+<p align="center"><sub><b>Biến logic & AI thành ứng dụng sử dụng được</b></sub></p>
+
+<p align="left">
+  ✅ Flask, REST API & phân quyền<br/>
+  ✅ Dashboard quản trị, CRUD, export<br/>
+  ✅ Bootstrap & giao diện thân thiện<br/>
+  ✅ Kiến trúc module, dễ mở rộng
+</p>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1d4ed8,100:38bdf8&height=40&section=footer" width="100%" alt="" />
+</p>
 
 ---
 
