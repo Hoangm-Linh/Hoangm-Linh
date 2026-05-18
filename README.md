@@ -61,57 +61,182 @@ const hoangManhLinh = {
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
+<p align="center">
+  <i>Dự án học thuật & cá nhân — thiết kế end-to-end, có tài liệu và triển khai thực tế</i>
+</p>
+
+<br/>
+
+<!-- Row 1: GitHub Pin Cards -->
+<p align="center">
+  <a href="https://github.com/Hoangm-Linh/LTM-He-Thong-Quan-Ly-Ngan-Hang-Mini">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hoangm-Linh&repo=LTM-He-Thong-Quan-Ly-Ngan-Hang-Mini&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Bank Mini" />
+  </a>
+  <a href="https://github.com/Hoangm-Linh/Quan_ly_dan_cu_CDS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hoangm-Linh&repo=Quan_ly_dan_cu_CDS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Quan ly dan cu" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hoangm-Linh/ATBMTT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hoangm-Linh&repo=ATBMTT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="ATBMTT" />
+  </a>
+  <a href="https://github.com/Hoangm-Linh/Phan-tich-du-lieu-taxi-New-York-City">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hoangm-Linh&repo=Phan-tich-du-lieu-taxi-New-York-City&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="Taxi NYC" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hoangm-Linh/Diem-danh-bang-ma-QRCode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hoangm-Linh&repo=Diem-danh-bang-ma-QRCode&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" alt="QR Attendance" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Row 2: Detail Cards -->
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏦 [Hệ thống Quản lý Ngân hàng Mini](https://github.com/Hoangm-Linh/LTM-He-Thong-Quan-Ly-Ngan-Hang-Mini)
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Backend%20%7C%20Fintech-0f172a?style=for-the-badge&labelColor=1e3a8a" alt="Backend" />
+</p>
 
-Ứng dụng Client–Server (Swing + TCP): quản lý khách hàng, tài khoản, nạp/rút/chuyển, sao kê, phân quyền, tìm kiếm & sắp xếp dữ liệu.
+<h3 align="center">🏦 Hệ thống Quản lý Ngân hàng Mini</h3>
 
-**Tech:** `Java` `Swing` `MySQL` `TCP`
+<p align="center"><sub><b>Client–Server · Java Swing · MySQL · TCP</b></sub></p>
+
+<ul>
+  <li>Quản lý khách hàng, tài khoản, giao dịch nạp/rút/chuyển</li>
+  <li>Sao kê, phân quyền người dùng, tìm kiếm & sắp xếp dữ liệu</li>
+  <li>Giao tiếp Client ↔ Server qua giao thức <code>key=value</code></li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Swing-5382A1?style=flat-square" alt="Swing" />
+  <br/><br/>
+  <a href="https://github.com/Hoangm-Linh/LTM-He-Thong-Quan-Ly-Ngan-Hang-Mini">
+    <img src="https://img.shields.io/badge/↗_Xem_Repository-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏛️ [Quản lý Dân cư CDS](https://github.com/Hoangm-Linh/Quan_ly_dan_cu_CDS)
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Web%20App%20%7C%20GovTech-0f172a?style=for-the-badge&labelColor=1e3a8a" alt="Web" />
+</p>
 
-Web quản lý hành chính xã: dân cư, hộ gia đình, giấy tờ, phản hồi người dân; phân quyền & phân loại phản hồi bằng ML.
+<h3 align="center">🏛️ Quản lý Dân cư CDS</h3>
 
-**Tech:** `Python` `Flask` `SQLite` `scikit-learn`
+<p align="center"><sub><b>Flask · SQLite · Bootstrap 5 · Machine Learning</b></sub></p>
+
+<ul>
+  <li>Quản lý dân cư, hộ gia đình, giấy tờ & phản hồi người dân</li>
+  <li>Phân quyền Admin / Viewer / Citizen, xuất CSV/XML</li>
+  <li>Phân loại phản hồi tự động bằng <b>scikit-learn</b></li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML" />
+  <br/><br/>
+  <a href="https://github.com/Hoangm-Linh/Quan_ly_dan_cu_CDS">
+    <img src="https://img.shields.io/badge/↗_Xem_Repository-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 [ATBMTT — Spotify Cloud Simulator](https://github.com/Hoangm-Linh/ATBMTT)
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Security%20%7C%20Networking-0f172a?style=for-the-badge&labelColor=1e3a8a" alt="Security" />
+</p>
 
-Hệ thống upload/download file tách Server/Client; mã hóa AES-GCM, trao đổi khóa RSA, giao thức Socket TCP bảo mật.
+<h3 align="center">🔐 ATBMTT — Spotify Cloud Simulator</h3>
 
-**Tech:** `Python` `Flask` `AES-GCM` `RSA` `Socket`
+<p align="center"><sub><b>Server/Client tách biệt · Mã hóa · Socket TCP</b></sub></p>
+
+<ul>
+  <li>Upload/Download file qua kiến trúc Server (5001) + Client (5000)</li>
+  <li>Mã hóa <b>AES-GCM</b>, trao đổi khóa <b>RSA</b>, chữ ký <b>SHA-512</b></li>
+  <li>Handshake bảo mật & kiểm tra toàn vẹn end-to-end</li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/AES--GCM-38bdf8?style=flat-square" alt="AES" />
+  <img src="https://img.shields.io/badge/RSA-2563EB?style=flat-square" alt="RSA" />
+  <br/><br/>
+  <a href="https://github.com/Hoangm-Linh/ATBMTT">
+    <img src="https://img.shields.io/badge/↗_Xem_Repository-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚕 [Phân tích Taxi NYC](https://github.com/Hoangm-Linh/Phan-tich-du-lieu-taxi-New-York-City)
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-Data%20Science%20%7C%20Big_Data-0f172a?style=for-the-badge&labelColor=1e3a8a" alt="Data" />
+</p>
 
-Phân tích dữ liệu chuyến đi taxi New York: xử lý big data với Spark, trực quan hóa & mô hình hồi quy dự đoán chi phí.
+<h3 align="center">🚕 Phân tích Dữ liệu Taxi NYC</h3>
 
-**Tech:** `R` `Spark` `ggplot2` `Big Data`
+<p align="center"><sub><b>R · Apache Spark · ggplot2 · Regression</b></sub></p>
+
+<ul>
+  <li>Xử lý dataset taxi NYC quy mô lớn với <b>Spark</b></li>
+  <li>Trực quan hóa xu hướng chuyến đi theo ngày/giờ/tuần</li>
+  <li>Mô hình hồi quy tuyến tính dự đoán tổng chi phí chuyến đi</li>
+</ul>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/ggplot2-3366CC?style=flat-square" alt="ggplot2" />
+  <br/><br/>
+  <a href="https://github.com/Hoangm-Linh/Phan-tich-du-lieu-taxi-New-York-City">
+    <img src="https://img.shields.io/badge/↗_Xem_Repository-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="50%" colspan="2" valign="top">
 
-### 📱 [Điểm danh bằng QR Code](https://github.com/Hoangm-Linh/Diem-danh-bang-ma-QRCode)
+<p align="center">
+  <img src="https://img.shields.io/badge/Domain-IoT%20%7C%20Automation-0f172a?style=for-the-badge&labelColor=1e3a8a" alt="IoT" />
+</p>
 
-Hệ thống điểm danh sinh viên tích hợp phần cứng Arduino (LED, còi) + Python, MongoDB, Flask; gửi QR qua email, xuất CSV.
+<h3 align="center">📱 Điểm danh Sinh viên bằng QR Code</h3>
 
-**Tech:** `Python` `MongoDB` `Flask` `Arduino` `QR`
+<p align="center"><sub><b>Python · MongoDB · Flask · Arduino · OpenCV</b></sub></p>
+
+<p align="center">
+  Hệ thống điểm danh thông minh tích hợp <b>phần cứng</b> (LED xanh/đỏ, còi) và <b>phần mềm</b> (Tkinter, Flask, MongoDB).
+  Sinh viên quét QR qua email → server xác thực → Arduino phản hồi trực quan → lưu lịch sử & xuất CSV.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/QR_Code-000000?style=flat-square" alt="QR" />
+  <br/><br/>
+  <a href="https://github.com/Hoangm-Linh/Diem-danh-bang-ma-QRCode">
+    <img src="https://img.shields.io/badge/↗_Xem_Repository-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
+  </a>
+</p>
 
 </td>
 </tr>
