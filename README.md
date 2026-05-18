@@ -114,17 +114,33 @@ const hoangManhLinh = {
 
 ## 🛠️ Công nghệ & Công cụ
 
+<h3 align="center">💻 Công nghệ</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,bootstrap,flask,nodejs,mysql,git,github,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,js,bootstrap,flask,nodejs,mysql,mongodb,sqlite,r,java&perline=7" alt="Công nghệ" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="sklearn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/AI_Labeling-38bdf8?style=flat-square" alt="Labeling" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/G%C3%A1n_nh%C3%A3n_AI-38bdf8?style=for-the-badge" alt="Gán nhãn AI" />
+</p>
+
+<br/>
+
+<h3 align="center">🧰 Công cụ hỗ trợ</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,jupyter&perline=6" alt="Công cụ" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Trae-0ea5e9?style=for-the-badge" alt="Trae" />
 </p>
 
 ---
