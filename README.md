@@ -18,8 +18,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hoangm-Linh&label=Profile%20Views&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Hoangm-Linh?style=for-the-badge&logo=github&color=0f172a" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Hoangm-Linh?style=for-the-badge&logo=github&color=1d4ed8" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Portfolio-Open%20Source-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Internship-22c55e?style=for-the-badge" alt="Status" />
 </p>
 
 ---
@@ -39,10 +39,6 @@ const hoangManhLinh = {
 - Passionate about turning class assignments into deployable, portfolio-ready products.
 - Comfortable with Python-based data workflows and practical web application development.
 - Interested in secure-by-design thinking for modern software systems.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hoangm-Linh/Hoangm-Linh/output/snake.svg" alt="Snake animation" width="100%" />
-</p>
 
 ---
 
@@ -185,35 +181,76 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
 
 ---
 
-## GitHub Analytics
+## 💼 Professional Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoangm-Linh&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&rank_icon=github" height="180" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=Hoangm-Linh&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="180" alt="Streak" />
+  <i>GitHub là portfolio lưu trữ dự án thực tế — đánh giá theo <b>chất lượng sản phẩm</b>, không theo số commit hay streak.</i>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangm-Linh&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Hoangm-Linh&theme=discord&no-bg=true&no-frame=true&column=4&margin-w=10" height="170" alt="Trophies" />
-</p>
+### 🎓 Education
+
+| | |
+| :--- | :--- |
+| **Trường** | Đại học Đại Nam |
+| **Khoa** | Công nghệ Thông tin |
+| **Lớp** | CNTT 16-03 |
+| **Định hướng** | Web · Data · Information Security |
+
+### 💪 Core Strengths
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Web & Backend**
+- Xây dựng ứng dụng web Flask, REST API, phân quyền người dùng
+- CRUD, tìm kiếm/lọc, xuất CSV/XML
+- Giao diện Bootstrap, kiến trúc blueprint/module
+
+**🏦 Systems & Networking**
+- Client–Server (Java Swing + TCP)
+- Giao thức tùy chỉnh, xử lý nghiệp vụ phía server
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Data & Analytics**
+- Phân tích dữ liệu với R, Spark, ggplot2
+- Tiền xử lý, trực quan hóa, mô hình hồi quy
+
+**🔐 Security & IoT**
+- Mã hóa AES-GCM, RSA, SHA-512, Socket bảo mật
+- Tích hợp phần cứng Arduino (LED, còi) với Python
+
+</td>
+</tr>
+</table>
+
+### 📂 Project Domains
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hoangm-Linh&theme=tokyonight" width="100%" alt="Profile Details" />
+  <img src="https://img.shields.io/badge/Fintech-Banking_System-1d4ed8?style=for-the-badge" alt="Fintech" />
+  <img src="https://img.shields.io/badge/GovTech-Citizen_Management-0ea5e9?style=for-the-badge" alt="GovTech" />
+  <img src="https://img.shields.io/badge/Security-Encrypted_File_Transfer-7c3aed?style=for-the-badge" alt="Security" />
+  <img src="https://img.shields.io/badge/Big_Data-Taxi_Analytics-E25A1C?style=for-the-badge" alt="Big Data" />
+  <img src="https://img.shields.io/badge/IoT-QR_Attendance-22c55e?style=for-the-badge" alt="IoT" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hoangm-Linh&theme=tokyonight" height="200" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hoangm-Linh&theme=tokyonight" height="200" alt="Most Commit Language" />
-</p>
+### ✅ Engineering Practices
+
+- Mỗi dự án có **README**, hướng dẫn cài đặt và mô tả chức năng rõ ràng
+- Thiết kế theo mô hình **Client–Server** hoặc **tách module** dễ bảo trì
+- Ưu tiên xử lý lỗi, phân quyền và bảo mật ở mức ứng dụng thực tế
+- Làm việc nhóm (TTDN, đồ án nhóm) và hoàn thiện tài liệu trình bày
 
 ---
 
-## 2026 Goals
+## 🎯 2026 Goals
 
-- Build at least 3 polished projects with full documentation.
-- Improve algorithm/problem-solving consistency on a weekly schedule.
-- Deepen practical security knowledge and apply it into web projects.
-- Contribute to open source and collaborate with other developers.
+- Hoàn thiện thêm dự án portfolio có demo và tài liệu đầy đủ
+- Nâng cao kỹ năng thiết kế hệ thống và clean code
+- Đi sâu bảo mật ứng dụng web & truyền thông mạng
+- Sẵn sàng thực tập và hợp tác dự án nhóm
 
 ---
 
