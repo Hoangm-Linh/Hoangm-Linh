@@ -307,14 +307,4 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
   <b>Made with ❤️ by Hoàng Mạnh Linh</b>
 </p>
 
-<p align="center">
-  📧 <a href="mailto:linhmanhhoang03@gmail.com">linhmanhhoang03@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.facebook.com/mling1103">Facebook: Mạnh Linh</a>
-  &nbsp;·&nbsp;
-  <b>Trạng thái:</b> Sẵn sàng đi làm
-</p>
 
-<p align="center">
-  <i>“Trước tiên, hãy giải quyết vấn đề. Sau đó, hãy viết mã.”</i> — John Johnson
-</p>
