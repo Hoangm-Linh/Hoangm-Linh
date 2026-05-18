@@ -293,6 +293,28 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
   <i>Luôn sẵn sàng đi làm, làm dự án nhóm và hợp tác mã nguồn mở.</i>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:38bdf8,100:0f172a" width="100%" />
+  ⭐ <b>Hãy thể hiện sự ủng hộ bằng cách đánh dấu sao các kho lưu trữ của tôi!</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0:1d4ed8,50:38bdf8,100:0ea5e9&height=130&section=footer" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by Hoàng Mạnh Linh</b>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:linhmanhhoang03@gmail.com">linhmanhhoang03@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.facebook.com/mling1103">Facebook: Mạnh Linh</a>
+  &nbsp;·&nbsp;
+  <b>Trạng thái:</b> Sẵn sàng đi làm
+</p>
+
+<p align="center">
+  <i>“Trước tiên, hãy giải quyết vấn đề. Sau đó, hãy viết mã.”</i> — John Johnson
 </p>
