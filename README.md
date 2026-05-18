@@ -8,18 +8,18 @@
   <a href="https://github.com/Hoangm-Linh">
     <img src="https://img.shields.io/badge/GitHub-Hoangm--Linh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:manhlinh3011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-manhlinh3011%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:linhmanhhoang03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-linhmanhhoang03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/mling1103">
-    <img src="https://img.shields.io/badge/Facebook-mling1103-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-M%E1%BA%A1nh%20Linh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hoangm-Linh&label=L%C6%B0%E1%BB%A3t%20xem%20profile&style=for-the-badge&color=0ea5e9" alt="Lượt xem profile" />
+  <img src="https://img.shields.io/github/public-repos/Hoangm-Linh?label=S%E1%BB%91%20b%C3%A0i%20%C4%91%C3%A3ng%20t%E1%BA%A3i&style=for-the-badge&color=0ea5e9&logo=github&logoColor=white" alt="Số bài đăng tải" />
   <img src="https://img.shields.io/badge/Portfolio-M%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/Tr%E1%BA%A1ng%20th%C3%A1i-S%E1%BA%B5n%20s%C3%A0ng%20th%E1%BB%B1c%20t%E1%BA%ADp-22c55e?style=for-the-badge" alt="Thực tập" />
+  <img src="https://img.shields.io/badge/Tr%E1%BA%A1ng%20th%C3%A1i-S%E1%BA%B5n%20s%C3%A0ng%20%C4%91i%20l%C3%A0m-22c55e?style=for-the-badge" alt="Sẵn sàng đi làm" />
 </p>
 
 ---
@@ -269,37 +269,28 @@ Hệ thống điểm danh sinh viên tích hợp Arduino (LED, còi) + Python, M
 
 ---
 
-## 🎓 Học vấn
-
-| | |
-| :--- | :--- |
-| **Trường** | Đại học Đại Nam — Khoa CNTT |
-| **Lớp** | CNTT 16-03 |
-
----
-
 ## 🎯 Mục tiêu 2026
 
 - Nâng cao kỹ năng **AI/ML** và triển khai model trên nền tảng web
-- Xây dựng quy trình **gán nhãn dữ liệu** chuẩn hóa cho bài toán phân loại
+- Xây dựng quy trình **gán nhãn dữ liệu** chuẩn hóa cho các bài toán phân loại
 - Phát triển thêm sản phẩm **full-stack** có demo và tài liệu rõ ràng
-- Sẵn sàng **thực tập** tại môi trường AI, Data hoặc Web
+- Sẵn sàng **đi làm** tại môi trường AI, Data hoặc Web
 
 ---
 
 ## 📬 Liên hệ
 
 <p align="center">
-  <a href="mailto:manhlinh3011@gmail.com">
+  <a href="mailto:linhmanhhoang03@gmail.com">
     <img src="https://img.shields.io/badge/Email-Li%C3%AAn%20h%E1%BB%87-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/mling1103">
-    <img src="https://img.shields.io/badge/Facebook-Nh%E1%BA%AFn%20tin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-M%E1%BA%A1nh%20Linh-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 <p align="center">
-  <i>Luôn sẵn sàng thực tập, làm dự án nhóm và hợp tác mã nguồn mở.</i>
+  <i>Luôn sẵn sàng đi làm, làm dự án nhóm và hợp tác mã nguồn mở.</i>
 </p>
 
 <p align="center">
